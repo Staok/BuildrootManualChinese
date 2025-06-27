@@ -1,5 +1,5 @@
 # BuildrootManualChinese
-Buildroot 2025.05 手册 - 中文版（AI翻译）
+Buildroot 2025.05 手册 - 中文版（AI 高质量翻译）
 
 
 

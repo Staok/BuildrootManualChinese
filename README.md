@@ -3,7 +3,9 @@ Buildroot 2025.05 手册 - 中文版（AI翻译）
 
 
 
-译文在 [Github 仓库](https://github.com/Staok/BuildrootManualChinese) 和 [gitee 仓库](https://gitee.com/staok/BuildrootManualChinese) 保持最新，其它平台发的文档可能不会与之同步。可以共同维护这个 仓库的 buildroot 中文译文，帮助更多人真正深入学习理解，更好的工作、生活和创造。
+译文在 [Github 仓库](https://github.com/Staok/BuildrootManualChinese) 和 [gitee 仓库](https://gitee.com/staok/BuildrootManualChinese) 保持最新，其它平台发的文档可能不会与之同步。
+
+**希望能够共同维护这个 仓库的 Buildroot 手册 中文译文，帮助更多人真正深入学习理解，更好的工作、生活和创造。**
 
 
 
@@ -52,7 +54,7 @@ buildroot 官方手册网址：
 
 
 
-之后经过手动章节校对，目录与官方文档一致，但是译文可能与原文有稍许的差异，如您确定译文有误或有不妥，大可直言提出优化。
+之后经过手动章节校对，目录与官方文档一致，但是译文可能与原文有稍许的差异，**如您确定译文有误或有不妥，大可直言提出优化，帮助译文改进。**
 
 
 
